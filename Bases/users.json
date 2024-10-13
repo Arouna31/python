@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Ali",
+      "age": 20,
+      "score": 100
+    },
+    {
+      "name": "Binta",
+      "age": 22,
+      "score": 50
+    },
+    {
+      "name": "Dana",
+      "age": 10,
+      "score": 60
+    }
+  ]
+}
