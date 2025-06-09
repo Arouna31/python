@@ -93,7 +93,7 @@ def main():
                                 - MENU[menu]["ingredients"][resource]
                             )
 
-                        print(f"Here is your {menu} Enjoy !")
+                        print(f"Here is your {menu} ☕ Enjoy !")
 
                 else:
                     print(
