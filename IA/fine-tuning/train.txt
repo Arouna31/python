@@ -1,0 +1,8 @@
+Question: What is AI?
+Answer: AI stands for Artificial Intelligence, the simulation of human intelligence in machines.
+
+Question: What is machine learning?
+Answer: Machine learning is a subset of AI that involves training algorithms on data to make predictions or decisions.
+
+Question: What is deep learning?
+Answer: Deep learning is a specialized branch of machine learning based on neural networks with many layers.
