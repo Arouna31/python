@@ -1,5 +1,5 @@
 # This program finds duplicated letters in a list without using sets
-some_list = ["a", "b", "c", "b", "d", "m", "n", "n"]
+some_list = ["a", "b", "c", "b", "d", "m", "n", "n", "n"]
 duplicated_items = []
 list_len = len(some_list)
 
@@ -9,7 +9,7 @@ while i < list_len:
     print(process_letter)
     for letter in some_list[i + 1 :]:
         print(letter, end=", ")
-        if letter == process_letter:
+        if letter == process_letter and not letter in duplicated_items:
             duplicated_items.append(process_letter)
     i = i + 1
 
